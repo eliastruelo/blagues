@@ -6,3 +6,6 @@ Papa, papa, j'aime pas mamie !
 Tais-toi et mange !
 
 Dans la vie, il y a 3 types de personnes. Ceux qui savent compter, et ceux qui savent pas
+
+Dans le monde, il y a 10 catégories de personnes :
+celles qui savent compter en binaire et celles qui ne savent pas.
